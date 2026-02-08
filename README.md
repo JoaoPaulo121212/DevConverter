@@ -34,17 +34,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 🎨 Layout
-
-O layout da aplicação foi pensado para ser simples e intuitivo.
-
-### Web
-<p align="center">
-  <img alt="DevConverter Web" title="#DevConverter" src="./assets/web-preview.png" width="400px">
-</p>
-
----
-
 ## 📂 Como executar o projeto
 
 Pré-requisitos: Navegador Web (Chrome, Firefox, etc).
